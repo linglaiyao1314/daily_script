@@ -1,0 +1,7 @@
+databases:
+    uri: 'mysql+mysqlconnector://root:admin@localhost:3306/learning'
+server:
+    project_name: 'data-api'
+    server_name: 'localhost'
+    server_port: 8080
+    secret_key: 'what-data-api-2020'
